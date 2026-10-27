@@ -1,0 +1,25 @@
+{
+  "name": "Double axis",
+  "kind": "double-axis",
+  "double_axis": {
+    "width": 220.0,
+    "height": 120.0,
+    "border": false,
+    "font_size": 28.0,
+    "dynamic_font": false,
+    "text_color": "#ffffff",
+    "glow_color": "#8fc8ff",
+    "glow_intensity": 0.6,
+    "title_info": "selected"
+  },
+  "background": {
+    "game_art": true,
+    "kind": "gradient",
+    "gradient_from": "#1a1a2e",
+    "gradient_to": "#000000",
+    "gradient_direction": "vertical"
+  },
+  "swap": {
+    "sound": true
+  }
+}
