@@ -1,4 +1,4 @@
-# Double Axis Theme
+<h1 align="center">Double Axis Theme</h1>
 
 <p align="center">
   <img alt="Rust Percentage" src="https://img.shields.io/github/languages/top/naisyrkdev/YasaffDoubleAxisTheme?logo=rust&logoColor=white">
